@@ -112,5 +112,15 @@
       "name": "Tamal de Pasas",
       "flaverImg": "https://i.imgur.com/8llA9s2.png"
     }
+  ],
+  "products-cart": [
+    {
+      "id": 15,
+      "category": "Tamales",
+      "price": 14,
+      "image": "https://i.imgur.com/bjWU2zB.png",
+      "name": "Tamal de Pasas",
+      "flaverImg": "https://i.imgur.com/8llA9s2.png"
+    }
   ]
 }
